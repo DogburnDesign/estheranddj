@@ -5,7 +5,7 @@
         <!-- STYLESHEETS -->
         <link rel="stylesheet" type="text/css" href="bower_components/bootstrap/dist/css/bootstrap.min.css">
         <link rel="stylesheet" type="text/css" href="bower_components/bootstrap/dist/css/bootstrap-theme.min.css">
-        <link rel="stylesheet/less" type="text/css" href="css/ead-style.less">
+        <link rel="stylesheet/less" type="text/css" href="css/ead-style.css">
         <script src="js/less.js-master/dist/less.js" type="text/javascript"></script>
     </head>
     <body>
@@ -25,7 +25,7 @@
                     <ul class="nav navbar-nav navbar-right">
                         <li><a href="rsvp">RSVP</a></li>
                         <li><a href="#">Donations</a></li>
-                        <li><a href="#">Registries</a></li>
+                        <li><a href="#" class="disabled">Registries</a></li>
                         <li><a href="#">Engagement Photos</a></li>
                     </ul>
                 </div>

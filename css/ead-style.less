@@ -19,6 +19,12 @@
     -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075),0 0 8px rgba(157,65,229,.6);
     box-shadow: inset 0 1px 1px rgba(0,0,0,.075),0 0 8px rgba(157, 65, 229, 0.6);
 }
+html{
+    background:url(http://subtlepatterns.com/patterns/cream_pixels.png);
+}
+body{
+    background-color: transparent;
+}
 
 .ead-header{
     font-family: sunshine;
@@ -30,6 +36,8 @@
     overflow: hidden;
     margin-top: -20px;
 }
+
+/*--   CALL TO ACTION  --*/
 .ead-cta{
     text-align: center;
     background: url(../images/ctabg.jpg);
@@ -43,8 +51,65 @@
     color:#fff;
     font-size:50px;
 }
+.ead-cta .btn {
+    background: #D49AF5;
+    border-radius: 10px;
+    text-decoration: none;
+    /* background-color: #FCF8FA; */
+    border-bottom: 5px solid #BC60EA;
+    /* text-shadow: 0px -2px #E2A8FF; */
+    font-weight: bold;
+    font-size: 2rem;
+}
+.ead-cta .btn:active{
+	transform: translate(0px,5px);
+  -webkit-transform: translate(0px,5px);
+    -moz-transform:translate(0px,5px);
+	border-bottom: 1px solid #5B0486;
+}
+.ead-cta a{
+    color:@dark-primary-color;
+    transition: all .2s;
+    -webkit-transition: all .2s;
+    -moz-transition: all .2s;
+}
+.ead-cta a:hover{
+    color:#fff;
+    background:#A84ADD;
+    border-bottom: 5px solid #5B0486;
+}
 .navbar-nav>li>a {
     padding-top: 25px;
     padding-bottom: 25px;
 }
-.ead-content{}
+.ead-content h3{
+    font-family: sunshine;
+    color:@dark-primary-color;
+    font-weight: bold;
+    font-size: 3em;
+}
+.ead-content .dialog{
+    text-align: right;
+}
+.ead-content h4.esther{
+    font-family: sunshine;
+    font-weight: bold;
+    color: @dark-primary-color;
+}
+.ead-content h4.dj{
+    font-family: sunshine;
+    font-weight: bold;
+    color: @accent-color;
+}
+.ead-content hr{
+    border-top:1px solid @dark-primary-color;
+}
+.navbar-toggle{
+    padding: 20px 10px;
+}
+
+@media (max-width: 1400px){
+    #ead-carousel{
+        height:auto;
+    }
+}
