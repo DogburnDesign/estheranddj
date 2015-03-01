@@ -13,17 +13,47 @@
     font-family:sunshine;
     src:url(fonts/sunshineinmysoul.ttf);
 }
+@import url(http://fonts.googleapis.com/css?family=Pacifico|Roboto+Slab:400,100,300,700);
+
+/* -- RSVP FORM STYLING -- */
 .form-control:focus {
     border-color: #9C58F2;
     outline: 0;
     -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075),0 0 8px rgba(157,65,229,.6);
     box-shadow: inset 0 1px 1px rgba(0,0,0,.075),0 0 8px rgba(157, 65, 229, 0.6);
 }
+.ead-rsvp-form button, input[type=submit],.ead-btn{
+    background: #D49AF5;
+    font-weight: bold;
+    font-family: 'Roboto Slab', serif;
+    border-bottom: 3px solid #BC60EA;
+    transition:all .2s;
+    -webkit-transition:all .2s;
+    -moz-transition:all .2s;
+    color:@dark-primary-color;
+}
+.ead-rsvp-form button, input[type=submit]:active, .ead-btn:active{
+	transform: translate(0px,5px);
+  -webkit-transform: translate(0px,5px);
+    -moz-transform:translate(0px,5px);
+	border-bottom: 1px solid #5B0486;
+    box-shadow: 0;
+    -webkit-box-shadow:0;
+}
+.ead-rsvp-form button, input[type=submit]:hover, .ead-btn:hover{
+    color:#fff;
+    background:#A84ADD;
+    border-bottom: 5px solid #5B0486;
+}
+/*-- GLOBAL STYLING */
 html{
     background:url(http://subtlepatterns.com/patterns/cream_pixels.png);
 }
 body{
     background-color: transparent;
+}
+p{
+    color:@primary-text-color;
 }
 
 .ead-header{
@@ -35,6 +65,19 @@ body{
     height:500px;
     overflow: hidden;
     margin-top: -20px;
+}
+h1, h2, h3, h4{
+    font-family: "sunshine",cursive;
+    font-weight: bold;
+    color:@dark-primary-color;
+}
+.ead-text-lg{
+    font-size: 2rem;
+}
+.ead-leaf{
+    background: url(../images/leaf4.svg);
+    height:40px;
+    background-repeat: no-repeat;
 }
 
 /*--   CALL TO ACTION  --*/
@@ -59,7 +102,9 @@ body{
     border-bottom: 5px solid #BC60EA;
     /* text-shadow: 0px -2px #E2A8FF; */
     font-weight: bold;
-    font-size: 2rem;
+    font-size: 3rem;
+    font-family: 'Roboto Slab', serif;
+    margin-bottom:10px;
 }
 .ead-cta .btn:active{
 	transform: translate(0px,5px);
@@ -113,3 +158,6 @@ body{
         height:auto;
     }
 }
+
+
+

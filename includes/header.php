@@ -24,7 +24,7 @@
                 <div class="collapse navbar-collapse" id="ead-collapse-menu">
                     <ul class="nav navbar-nav navbar-right">
                         <li><a href="rsvp">RSVP</a></li>
-                        <li><a href="#">Donations</a></li>
+                        <li><a href="donations">Donations</a></li>
                         <li><a href="#" class="disabled">Registries</a></li>
                         <li><a href="#">Engagement Photos</a></li>
                     </ul>
