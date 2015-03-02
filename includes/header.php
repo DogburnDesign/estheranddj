@@ -7,8 +7,10 @@
         <link rel="author" href="http://dogburndesign.com"/>
         
         
+        
     <!-- BASE URL -->
         <base href="http://localhost:8888/estheranddj/" />
+        <link rel="shortcut icon" href="images/ead-favicon.ico" />
     <!-- STYLESHEETS -->
         <link rel="stylesheet" type="text/css" href="bower_components/bootstrap/dist/css/bootstrap.min.css">
         <link rel="stylesheet" type="text/css" href="bower_components/bootstrap/dist/css/bootstrap-theme.min.css">
@@ -26,7 +28,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                       </button>
-                    <h1 class="ead-header"><a class="navbar-brand" href="#">Esther & DJ | Jan. 2, 2016</a></h1>
+                    <h1 class="ead-header"><a class="navbar-brand" href="">Esther & DJ | Jan. 2, 2016</a></h1>
                 </div>
                 <div class="collapse navbar-collapse" id="ead-collapse-menu">
                     <ul class="nav navbar-nav navbar-right">
