@@ -1,8 +1,15 @@
 
 <head>
         <title>Esther & DJ's Wedding | Jan. 2nd 2016</title>
+    
+    <!-- META TAGS -->
+        <meta name="description" content="The portal for information about the wedding of Dale Wilkerson and Esther Sutton.">
+        <link rel="author" href="http://dogburndesign.com"/>
+        
+        
+    <!-- BASE URL -->
         <base href="http://localhost:8888/estheranddj/" />
-        <!-- STYLESHEETS -->
+    <!-- STYLESHEETS -->
         <link rel="stylesheet" type="text/css" href="bower_components/bootstrap/dist/css/bootstrap.min.css">
         <link rel="stylesheet" type="text/css" href="bower_components/bootstrap/dist/css/bootstrap-theme.min.css">
         <link rel="stylesheet/less" type="text/css" href="css/ead-style.css">
@@ -25,8 +32,8 @@
                     <ul class="nav navbar-nav navbar-right">
                         <li><a href="rsvp">RSVP</a></li>
                         <li><a href="donations">Donations</a></li>
-                        <li><a href="#" class="disabled">Registries</a></li>
-                        <li><a href="#">Engagement Photos</a></li>
+                        <li><a href="#" class="ead-inactive">Registries</a></li>
+                        <li><a href="#" class="ead-inactive">Engagement Photos</a></li>
                     </ul>
                 </div>
             </div>

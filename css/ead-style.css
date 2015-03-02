@@ -75,6 +75,25 @@ h4 {
   height: 40px;
   background-repeat: no-repeat;
 }
+/* -- NAV BAR STYLING -- */
+.ead-inactive {
+  color: #e4e4e4 !important;
+  cursor: not-allowed;
+}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus,
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+  transition: all .2s;
+  -webkit-transition: all .2s;
+  -moz-transition: all .2s;
+}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus,
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+  color: #7b1fa2;
+}
 /*--   CALL TO ACTION  --*/
 .ead-cta {
   text-align: center;
@@ -121,6 +140,7 @@ h4 {
 .navbar-nav > li > a {
   padding-top: 25px;
   padding-bottom: 25px;
+  font-family: 'Roboto Slab', serif;
 }
 .ead-content h3 {
   font-family: sunshine;

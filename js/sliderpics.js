@@ -16,6 +16,14 @@ $(window).load(function () {
         "pic5" : {
             "id": "4",
             "url":"images/slider5.jpg"
+        },
+        "pic6" : {
+            "id": "5",
+            "url":"images/slider6.jpg"
+        },
+        "pic7" : {
+            "id": "6",
+            "url":"images/slider7.jpg"
         }
     };
      

@@ -36,7 +36,7 @@
                 <h4 class="dj">DJ</h4>
             </div>
             <div class="col-md-10 col-sm-10 col-xs-10">
-                <p>But not all of you...</p>
+                <p>We're going to throw a party that you'll never remember... think about that.</p>
              </div>
         </div>
         
@@ -45,7 +45,7 @@
                 <h4 class="esther">Esther</h4>
             </div>
             <div class="col-md-10 col-sm-10 col-xs-10">
-                <p>DJ... stop it.</p>
+                <p>DJ...</p>
             </div>
         </div>
         
@@ -54,7 +54,8 @@
                 <h4 class="dj">DJ</h4>
             </div>
             <div class="col-md-10 col-sm-10 col-xs-10">
-                <p>Alright alright alright...</p>
+                <p>Sorry...</p>
+                <p>Honestly we just want everyone to have a good time celebrating our wedding.</p>
                 <p>We're excited to invite friends and famly to this momentus occasion.  Make sure to RSVP and check back frequently for updates on the time, place, registries, and opportunities to contribute.</p>
              </div>
         </div>
