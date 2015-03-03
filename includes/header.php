@@ -9,7 +9,7 @@
         
         
     <!-- BASE URL -->
-        <base href="http://localhost:8888/estheranddj/" />
+        <base href="http://estheranddj.com/" />
         <link rel="shortcut icon" href="images/ead-favicon.ico" />
     <!-- STYLESHEETS -->
         <link rel="stylesheet" type="text/css" href="bower_components/bootstrap/dist/css/bootstrap.min.css">
@@ -32,7 +32,7 @@
                 </div>
                 <div class="collapse navbar-collapse" id="ead-collapse-menu">
                     <ul class="nav navbar-nav navbar-right">
-                        <li><a href="rsvp">RSVP</a></li>
+                        <li><a href="invites">Invites</a></li>
                         <li><a href="donations">Donations</a></li>
                         <li><a href="#" class="ead-inactive">Registries</a></li>
                         <li><a href="#" class="ead-inactive">Engagement Photos</a></li>

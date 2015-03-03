@@ -13,8 +13,8 @@
         </div>
         <div class="row">
             <div class="col-md-8 col-md-offset-2">
-                <div class="col-md-4 col-md-offset-2"><a class="btn btn-lg btn-block" role="button" href="rsvp">RSVP</a></div>
-                <div class="col-md-4"><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RDU5GGUTJ5Y48" class="btn btn-lg btn-block" role="button">Donate</a></div>
+                <div class="col-md-4 col-md-offset-2"><a class="btn btn-lg btn-block" role="button" href="invites">Invite Inquiry</a></div>
+                <div class="col-md-4"><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RDU5GGUTJ5Y48" class="btn btn-lg btn-block" role="button" target="_blank">Donate</a></div>
             </div>
         </div>
     </div>    
@@ -56,7 +56,7 @@
             <div class="col-md-10 col-sm-10 col-xs-10">
                 <p>Sorry...</p>
                 <p>Honestly we just want everyone to have a good time celebrating our wedding.</p>
-                <p>We're excited to invite friends and famly to this momentus occasion.  Make sure to RSVP and check back frequently for updates on the time, place, registries, and opportunities to contribute.</p>
+                <p>We're excited to invite friends and famly to this momentus occasion.  Make sure to fill out the invite form and check back frequently for updates on the time, place, registries, and opportunities to contribute.</p>
              </div>
         </div>
     </div>

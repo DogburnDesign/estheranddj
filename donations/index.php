@@ -14,7 +14,7 @@
         </div>
         <div class="row">
             <div class="col-md-4 col-md-offset-4">
-                <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RDU5GGUTJ5Y48" class="btn btn-lg ead-btn btn-block" role="button">Donate | Gift | Contribute</a>
+                <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RDU5GGUTJ5Y48" class="btn btn-lg ead-btn btn-block" role="button" target="_blank">Donate | Gift | Contribute</a>
             </div>
         </div>
 

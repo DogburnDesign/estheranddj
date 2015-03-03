@@ -37,7 +37,7 @@ input[type=submit]:hover,
 .ead-btn:hover {
   color: #fff;
   background: #A84ADD;
-  border-bottom: 5px solid #5B0486;
+  border-bottom: 3px solid #5B0486;
 }
 /*-- GLOBAL STYLING */
 html {

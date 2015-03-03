@@ -3,7 +3,7 @@
     <?php include ($root_url."../includes/header.php"); ?>
     
     <div class="container ead-content ss-form">
-    <form action="https://docs.google.com/forms/d/1Wq6GkK9El74lm1bHcoEdLFsKoeof4hwSxGDPSAquXoE/formResponse" method="POST" id="ss-form" target="_self" onsubmit="" class="ead-rsvp-form">
+    <form action="https://docs.google.com/forms/d/1Wq6GkK9El74lm1bHcoEdLFsKoeof4hwSxGDPSAquXoE/formResponse" method="POST" id="ss-form" target="_blank" onsubmit="" class="ead-rsvp-form">
         <ol role="list" class="ss-question-list" style="padding-left: 0">
         <div class="col-md-12">
             <div class="errorbox-good" role="listitem">
